@@ -1,0 +1,10 @@
+*REDEMARE*==jv_plugin_livebox_reboot
+*REBOOT*==jv_plugin_livebox_reboot
+*NUMERO*==jv_plugin_livebox_get_phone_number
+*RELANCE*INTERNET*==jv_plugin_livebox_reboot
+*PARTAGE*==jv_plugin_livebox_enable_wifi_share
+*ACTIVER*WIFI*==jv_plugin_livebox_wifi_enable
+*DESACTIVER*WIFI*==jv_plugin_livebox_wifi_disable
+*ADRESSE*IP*==jv_plugin_livebox_get_ipv4
+*MOT DE PASSE*LIVEBOX*==jv_plugin_livebox_get_password
+
