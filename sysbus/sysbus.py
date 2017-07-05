@@ -25,7 +25,7 @@ import subprocess
 # @brief informations de connexion à la Livebox
 URL_LIVEBOX = 'http://livebox.home/'
 USER_LIVEBOX = 'admin'
-PASSWORD_LIVEBOX = 'PASSWORD' #par defaut les 8 premiers caractères du mot de passe.
+PASSWORD_LIVEBOX = '4A361C37' #par defaut les 8 premiers caractères du mot de passe.
 VERSION_LIVEBOX = 'lb3'  
 
 
